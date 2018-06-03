@@ -1,0 +1,1 @@
+const double ELEMENT_SIZE = 60.0;
